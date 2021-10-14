@@ -1,0 +1,29 @@
+{
+    "toDos": [
+        {
+            "title": "Tarea 1",
+            "responsible": "José", 
+            "description": "Lorem impsum",
+            "priority": "baja"
+        },
+        {
+            "title": "Tarea 2",
+            "responsible": "José", 
+            "description": "Lorem impsum",
+            "priority": "alta"
+        },
+        {
+            "title": "Tarea 3",
+            "responsible": "José", 
+            "description": "Lorem impsum",
+            "priority": "media"
+        },
+        {
+            "title": "Tarea 4",
+            "responsible": "José", 
+            "description": "Lorem impsum",
+            "priority": "baja"
+        }
+    ]
+}
+
